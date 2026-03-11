@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I am a Computer Engineering student (graduating in 2026) with a strong focus on full-stack development and quality assurance. I thrive in environments where I can blend **High IQ (Technical Architecture)** with **High EQ (Leadership & Empathy)**.
+I am a Computer Engineering  with a strong focus on full-stack development and quality assurance. I thrive in environments where I can blend **High IQ (Technical Architecture)** with **High EQ (Leadership & Empathy)**.
 
 - 🔭 **Currently working on:** Leading QA technical plans at **Kuentro** (reduced defect density from 5% to 0.1%) and scaling **Master Motos VE**, my award-winning e-commerce platform.
 - ⚙️ **My biggest wins:** Developed Python/Flask automation bots that recover **7.9 productive hours daily** for clients by eliminating manual inventory errors.
