@@ -52,7 +52,7 @@ I am a Computer Engineering  with a strong focus on full-stack development and q
 ### 🔗 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/hector-lopez-ujap" target="_blank">
+  <a href="https://www.linkedin.com/in/halmayaudon/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
