@@ -1,4 +1,4 @@
-# Hi there, I'm Héctor López 👋
+# Hi there, I'm Héctor López Mayaudon 👋
 
 <div align="center">
   <h3>Software Engineer | QA Automation | Python & React Specialist</h3>
